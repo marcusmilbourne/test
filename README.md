@@ -1,2 +1,4 @@
 # test
-tutorial
+Test
+==========
+shows bare minimums of git 
